@@ -1,0 +1,22 @@
+{
+  "current": "sess-online",
+  "last": "sess-online",
+  "online": [
+    {
+      "id": "sess-online",
+      "title": "Demo project",
+      "cwd": "C:\\proj\\demo",
+      "activity": "idle",
+      "reason": "online"
+    }
+  ],
+  "openable_dormant": [
+    {
+      "id": "sess-old",
+      "title": "Earlier seat",
+      "cwd": "C:\\proj\\other",
+      "activity": "dormant",
+      "reason": "known_dormant"
+    }
+  ]
+}

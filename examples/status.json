@@ -1,0 +1,12 @@
+{
+  "id": "sess-online",
+  "online": true,
+  "state": "Idle",
+  "cwd": "C:\\proj\\demo",
+  "task": null,
+  "updated_at": "2026-01-01T00:00:00+00:00",
+  "activity": "idle",
+  "awaiting_permission": false,
+  "openable": true,
+  "reason": "online"
+}

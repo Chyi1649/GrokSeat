@@ -1,0 +1,43 @@
+{
+  "current": "sess-online",
+  "last": "sess-online",
+  "online": ["sess-online"],
+  "openable": ["sess-online", "sess-old"],
+  "pager_alive": true,
+  "socket": "%USERPROFILE%\\.grok\\leader-grokseat.sock",
+  "sessions": [
+    {
+      "id": "sess-online",
+      "title": "Demo project",
+      "cwd": "C:\\proj\\demo",
+      "online": true,
+      "resident_pager": true,
+      "activity": "idle",
+      "controllable": true,
+      "openable": true,
+      "reason": "online"
+    },
+    {
+      "id": "sess-old",
+      "title": "Earlier seat",
+      "cwd": "C:\\proj\\other",
+      "online": false,
+      "resident_pager": false,
+      "activity": "dormant",
+      "controllable": false,
+      "openable": true,
+      "reason": "known_dormant"
+    },
+    {
+      "id": "sess-local",
+      "title": "Ordinary local Grok",
+      "cwd": "C:\\proj\\local",
+      "online": false,
+      "resident_pager": false,
+      "activity": "dormant",
+      "controllable": false,
+      "openable": false,
+      "reason": "not_grokseat"
+    }
+  ]
+}
